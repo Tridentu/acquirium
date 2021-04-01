@@ -1,7 +1,7 @@
 Origin: tridentu.github.io/acquirium
-Label: tridentu-acquirium
+Label: Tridentu Acquirium
 Codename: tridentu
 Architectures: amd64 source
 Components: main
 Description: The official APT repository for software that runs on Tridentu Linux.
-SignWith: yes
+SignWith: FF21152B3478E65F
