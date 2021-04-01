@@ -2,12 +2,25 @@ Package: emacs-tridentu
 Version: 27.2.0
 Architecture: amd64
 Maintainer: Tridentu Group tridentugroup@protonmail.com
-Priority: extra
-Section: apps
+Priority: important
+Section: libraries
 Filename: pool/main/e/emacs-tridentu/emacs-tridentu_27.2.0_amd64.deb
 Size: 42609784
 SHA256: a8e0b2e892bd137a72eb39f781686317695ec84df7d6660b8c63a1d768a4e49a
 SHA1: b421b354bd408980cd88aa4a480738a72c3275dd
 MD5sum: c8bd0a1922db28ddaa47c2ab45065e2e
 Description: This package is Emacs, but built and packaged for use with Tridentu Linux. This package is only for the Terminal version of Tridentu, so there are no X-related user interfaces available.
+
+Package: harfbuzz-tridentu
+Version: 2.8.0
+Architecture: amd64
+Maintainer: Tridentu Group tridentugroup@protonmail.com
+Priority: important
+Section: libraries
+Filename: pool/main/h/harfbuzz-tridentu/harfbuzz-tridentu_2.8.0_amd64.deb
+Size: 7149136
+SHA256: e4b72d8d83fd0ebf3a2b907d3ec11e305ed0ba381d4b4ae9737464d08c1a9e3f
+SHA1: 4ab4168f051f677cf17c30e2df56011ee925341e
+MD5sum: 6bf940be31ca897229a669a7f674bc72
+Description: This is Harfbuzz, but packaged for Tridentu Linux.
 
