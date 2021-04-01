@@ -24,3 +24,16 @@ SHA1: 4ab4168f051f677cf17c30e2df56011ee925341e
 MD5sum: 6bf940be31ca897229a669a7f674bc72
 Description: This is Harfbuzz, but packaged for Tridentu Linux.
 
+Package: pkg-config-tridentu
+Version: 0.29.2
+Architecture: amd64
+Maintainer: Tridentu Group tridentugroup@protonmail.com
+Priority: required
+Section: essentials
+Filename: pool/main/p/pkg-config-tridentu/pkg-config-tridentu_0.29.2_amd64.deb
+Size: 623880
+SHA256: 959851fce3d9b6344298759ec9aa249cc3d6bf8fb14b48f3168ef5d5bc8e2758
+SHA1: 5da52d30044b16cf7e2695d6462690f1961ef92a
+MD5sum: 7c3b0f04204f8cf7ae7b0979ecd4aded
+Description: This is pkg-config, but built for Tridentu Linux.
+
