@@ -24,6 +24,19 @@ SHA1: 4ab4168f051f677cf17c30e2df56011ee925341e
 MD5sum: 6bf940be31ca897229a669a7f674bc72
 Description: This is Harfbuzz, but packaged for Tridentu Linux.
 
+Package: libsigc++-tridentu
+Version: 3.0.6
+Architecture: amd64
+Maintainer: Tridentu Group tridentugroup@protonmail.com
+Priority: important
+Section: libraries
+Filename: pool/main/libs/libsigc++-tridentu/libsigc++-tridentu_3.0.6_amd64.deb
+Size: 62140
+SHA256: ce7f6367db6f4faf9cdcb1d899912338bc9e84d02f7e33e359cf2cf503e2d68b
+SHA1: 66c544ea126b4a47cc48075f8cc2976b6a9e7ce1
+MD5sum: 9a3f186d1e1273a3a2d71875e8975152
+Description: libsigc++ built for Tridentu Linux.
+
 Package: pkg-config-tridentu
 Version: 0.29.2
 Architecture: amd64
