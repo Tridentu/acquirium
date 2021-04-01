@@ -1,34 +1,45 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Date: Wed, 31 Mar 2021 20:32:23 +0000
+Origin: tridentu.github.io/acquirium
+Label: Tridentu Acquirium
+Codename: tridentu
+Date: Thu, 01 Apr 2021 20:01:44 UTC
+Architectures: amd64
+Components: main
+Description: The official APT repository for software that runs on Tridentu Linux.
 MD5Sum:
- add81337faf086bb474217e97bab0fab              543 Packages
- a9a1c667f26af1cef1be8fc22d6fc3fb              388 Packages.gz
- 06235c2a79f7082efd53a73abb83158e               38 Release
+ 3adb809654c0172a843c62677428e6b6 592 main/binary-amd64/Packages
+ 861e534739d3796b0b477be96f298cba 406 main/binary-amd64/Packages.gz
+ 017ce2330206648c8147fe4cce1a3dc9 182 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 4b70c6822c987422981e00b4c7ecc5d6 183 main/source/Release
 SHA1:
- eab239c9dfbe20eec3b37ab51b2ed47c4dda8ea4              543 Packages
- e165d2c467d270ca60262f79fb700c288ee8f9a2              388 Packages.gz
- c51ea9430cca1a44760dd34a7dc382f0c219743e               38 Release
+ 657cb747e60d685622e74eb45e8e4474650e1092 592 main/binary-amd64/Packages
+ aebdf61fce278598b4de76276d4042115e662ee8 406 main/binary-amd64/Packages.gz
+ 9ec0583abf4a28ba186ed78f29b70f002a90e10a 182 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 2c5b77de1b3578a20a53b55fabb272473a4656df 183 main/source/Release
 SHA256:
- c0f8bbcee2b5031b0f7fb94f5667a319f8c7a98a42b9e3bde7180a82a552c135              543 Packages
- 0b8ef49b4c24fac485c2b1d65e9d3469e4613c0f0104b4ed7df8824c12bb30de              388 Packages.gz
- ccdbe5abff4ffad79064e68651c419d2443a9da346dfcd3a42c72e0ba7b3d23e               38 Release
-SHA512:
- ebe78fd94cabfebadec50e6a1f6811354c135933097af0433976a6e9918b79c96ed75be67ee1b00ae65c5740a2177705c9f817a4a4b9be84761c0516670f9817              543 Packages
- 0311407b29b812b4f9ff9ea8b38ce1f03082b6f7b780e0172b85f81387df21adbc17469cdfc8ed36f2010ee005d3380a8b11913e5541f00c9be3d0bf874bc9e7              388 Packages.gz
- 10797a41c08ae60750c2ef886fb755961521eb3d1255a0c899d5a5c13365eb9b2f0d3042db06b51d9d08659100029a127fe0ba739e70c18b4abce83a75190063               38 Release
+ 0289ec1191fae83a6a8651324a21a5e84be6038eb8bdae4e2776eaa662a59185 592 main/binary-amd64/Packages
+ 662d6cb8805d1b47a25b87ee548d2c5d33957132e925c3e5f7532d1c4435eb56 406 main/binary-amd64/Packages.gz
+ ee0c0aabe718e61646b7839f21ac2bb20038d3cfb81d096ec81c3c87cb66c5b2 182 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ c1e6e4e27e04fff6a12756860b8d901f41b5f07e22063bd9fd21ab05af7cf075 183 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQHRBAEBCgA7FiEETpSpBQ2/XuQH+zWrbJROr5zt4qAFAmBmIZkdHHRyaWRlbnR1
-Z3JvdXBAcHJvdG9ubWFpbC5jb20ACgkQbJROr5zt4qASHwv9FCvoMcPMwBmGZ04+
-hg5RIdg6qqvGwkiVZud/oKzJU9jgpjwueHgbKyUDrvodYJ0nI6cAkU7IrPyKfTeP
-ZUzwBucBzlinv7FKCs0xslWodWwhxFwoPCIO4SenIlhwKeyalWI8avFj8hwSO5IH
-gc42sl/qUNvPfMgGUFnSYZpYro6qdvhEp4pMPmeGZGCekZtNeNA5LnnSLgvQKGzr
-pXtzW1qQ9grrnchRb6U6QH1bvLTaQa6jTyL143ccsmi/cmu417LXKomc5hLlGUum
-2WVnONU9F/SeEIcQ/bK0RwIorQrFGiPRRem0buUAetTAx7Qek3HH8s37xiq3sULH
-kMip41MomGcuQejXfrleaxQ3hEdBNtw3iJq7CEy1aza4o+mMrhgcoz54IX3lD6fr
-3jK8RLxlN3Zk1Ze8Nt22UHbHKgxvXmcDL4opfAxODYxgI5vKReD2TYGW8jKNQbGA
-ITeSZC0RVAlDiAyxvXC7AY/BD71AllisnbkK3YsvFvF4imXz
-=defT
+iQGzBAEBCgAdFiEETpSpBQ2/XuQH+zWrbJROr5zt4qAFAmBmJrIACgkQbJROr5zt
+4qAcDgv/aZ0FE3Db4Kj486BGmVDqVjfstOYdPyAQ/p2svZjYFGCSjyxXmPIj2eAz
+3bpHfU8nN6gLY3q0zfZ2HHOgvoFbIGbBcc7GqxjQ4FXdgnPhDzu1yZFTHpJ+dOCW
+tPTFiEgmlBRe3zFZz6J2XFvUAE7a84cg9wix3dapcFn6GKVUjfGlmhWqFXxiDABW
+6gyTFxtgbjQ1qhdfZ9bBGdkeoO9X1bWdgWIQFQjZWX6g68l2CWNsiMTbBh+c9kw4
+i3ezu0wI66PPRZKkDbGHRrhJuudGUY9X3Uh1H0l2Cr8eMmZBB7YUbMfNmRuf0Kqr
+cVH51oCutkvrvzd4C5M0sc/0OQEES0+ECSlmb1zM1Z4D0sDOErXEzkutIg9ch1tK
+6fJbqsLHtmlXnfO0Jl/oKURke0jFJ5i0Rq5BKoSgzgVqiKtMs/UiK+mGxVF4aZtQ
+gxIbi1Q/Q49rQ4WHHDQr4ziKPOYcWSVCe8XRe+wei1J5e3sV7fXNtWS/S6F/p9cL
+yrZ7+Hu9
+=0bxh
 -----END PGP SIGNATURE-----

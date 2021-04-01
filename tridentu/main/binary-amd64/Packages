@@ -2,10 +2,12 @@ Package: emacs-tridentu
 Version: 27.2.0
 Architecture: amd64
 Maintainer: Tridentu Group tridentugroup@protonmail.com
-Filename: ./amd64/emacs-tridentu_27.2.0_amd64.deb
+Priority: extra
+Section: apps
+Filename: pool/main/e/emacs-tridentu/emacs-tridentu_27.2.0_amd64.deb
 Size: 42609784
-MD5sum: c8bd0a1922db28ddaa47c2ab45065e2e
-SHA1: b421b354bd408980cd88aa4a480738a72c3275dd
 SHA256: a8e0b2e892bd137a72eb39f781686317695ec84df7d6660b8c63a1d768a4e49a
+SHA1: b421b354bd408980cd88aa4a480738a72c3275dd
+MD5sum: c8bd0a1922db28ddaa47c2ab45065e2e
 Description: This package is Emacs, but built and packaged for use with Tridentu Linux. This package is only for the Terminal version of Tridentu, so there are no X-related user interfaces available.
 
