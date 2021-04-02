@@ -24,6 +24,19 @@ SHA1: 4ab4168f051f677cf17c30e2df56011ee925341e
 MD5sum: 6bf940be31ca897229a669a7f674bc72
 Description: This is Harfbuzz, but packaged for Tridentu Linux.
 
+Package: inih-tridentu
+Version: 53.0.0
+Architecture: amd64
+Maintainer: Tridentu Group tridentugroup@protonmail.com
+Priority: important
+Section: libs
+Filename: pool/main/i/inih-tridentu/inih-tridentu_53.0.0_amd64.deb
+Size: 52632
+SHA256: 82dbf456686b938dd48e7b498a00fd5ec25e392a50437a1c0f104d75b22bb6b5
+SHA1: ddc36b403dc832f8bd6033af8aa8e0b762c7d456
+MD5sum: 0ad199d29709c9acf2abbb5760f30167
+Description: inih built for Tridentu Linux.
+
 Package: libsigc++-tridentu
 Version: 2.10.6
 Architecture: amd64
