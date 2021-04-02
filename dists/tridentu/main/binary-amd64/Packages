@@ -3,7 +3,7 @@ Version: 27.2.0
 Architecture: amd64
 Maintainer: Tridentu Group tridentugroup@protonmail.com
 Priority: important
-Section: libraries
+Section: editors
 Filename: pool/main/e/emacs-tridentu/emacs-tridentu_27.2.0_amd64.deb
 Size: 42609784
 SHA256: a8e0b2e892bd137a72eb39f781686317695ec84df7d6660b8c63a1d768a4e49a
@@ -16,7 +16,7 @@ Version: 2.8.0
 Architecture: amd64
 Maintainer: Tridentu Group tridentugroup@protonmail.com
 Priority: important
-Section: libraries
+Section: devel
 Filename: pool/main/h/harfbuzz-tridentu/harfbuzz-tridentu_2.8.0_amd64.deb
 Size: 7149136
 SHA256: e4b72d8d83fd0ebf3a2b907d3ec11e305ed0ba381d4b4ae9737464d08c1a9e3f
@@ -29,7 +29,7 @@ Version: 2.10.6
 Architecture: amd64
 Maintainer: Tridentu Group tridnetugroup@protonmail.com
 Priority: important
-Section: libraries
+Section: libs
 Filename: pool/main/libs/libsigc++-tridentu/libsigc++-tridentu_2.10.6_amd64.deb
 Size: 117364
 SHA256: f611152a842e23c924fb5cdf4373fe01a83f26f973067c493b8e46bc10e8b3e0
@@ -42,7 +42,7 @@ Version: 0.29.2
 Architecture: amd64
 Maintainer: Tridentu Group tridentugroup@protonmail.com
 Priority: required
-Section: essentials
+Section: devel
 Filename: pool/main/p/pkg-config-tridentu/pkg-config-tridentu_0.29.2_amd64.deb
 Size: 623880
 SHA256: 959851fce3d9b6344298759ec9aa249cc3d6bf8fb14b48f3168ef5d5bc8e2758

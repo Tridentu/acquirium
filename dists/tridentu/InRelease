@@ -4,42 +4,42 @@ Hash: SHA512
 Origin: tridentu.github.io/acquirium
 Label: Tridentu Acquirium
 Codename: tridentu
-Date: Fri, 02 Apr 2021 00:33:24 UTC
+Date: Fri, 02 Apr 2021 13:47:03 UTC
 Architectures: amd64
 Components: main
 Description: The official APT repository for software that runs on Tridentu Linux.
 MD5Sum:
- 9005fb07080696491db79f8532e63fc8 2016 main/binary-amd64/Packages
- 2373a4b522f905afc37db6f477eee623 854 main/binary-amd64/Packages.gz
+ 99d0b8dcf9669971ca025fef2587105d 2000 main/binary-amd64/Packages
+ a71f1a6dd0a4671844c4d3ba9fdf3c1e 855 main/binary-amd64/Packages.gz
  017ce2330206648c8147fe4cce1a3dc9 182 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  4b70c6822c987422981e00b4c7ecc5d6 183 main/source/Release
 SHA1:
- 2a8d1bf600ff5172097a7378f79aeaad3215dff7 2016 main/binary-amd64/Packages
- 8fca591b31ef7e3b6358d151ec15b2a13ff76efd 854 main/binary-amd64/Packages.gz
+ 38be2f8d9e6559a8f79575b95c3072daee8f3ccf 2000 main/binary-amd64/Packages
+ f5318338e4036a00ef02e12b01480d09b0208b5e 855 main/binary-amd64/Packages.gz
  9ec0583abf4a28ba186ed78f29b70f002a90e10a 182 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  2c5b77de1b3578a20a53b55fabb272473a4656df 183 main/source/Release
 SHA256:
- de944fdd036e4450fd5fc3b850f2a3d19dcc206cdacc4f2708b41a679a026426 2016 main/binary-amd64/Packages
- 6aaf10defa26bc11e5b63013be3fc52971beba2d9a93a31d0904b83556bace09 854 main/binary-amd64/Packages.gz
+ fa72e929399992ca15753cd34c34e5ee7128eb18a5ecb30f5842805a7dac0a95 2000 main/binary-amd64/Packages
+ 78b34513c6b6c68cb94cab3c2a9e8ef78f94e68321267255b01d0c18e2e6bdf7 855 main/binary-amd64/Packages.gz
  ee0c0aabe718e61646b7839f21ac2bb20038d3cfb81d096ec81c3c87cb66c5b2 182 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
  c1e6e4e27e04fff6a12756860b8d901f41b5f07e22063bd9fd21ab05af7cf075 183 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEETpSpBQ2/XuQH+zWrbJROr5zt4qAFAmBmZlQACgkQbJROr5zt
-4qCHhgv9Fea0PXhA1+/skdaeIQY9uNhuaMksYUJeHzU5gUZeRn1Ht+/GsMglOYLi
-LJVBFfTynhlfuiRO+sVjQUTyjs5nEIOtRDUG8n3VIZO3UJ0JFnJkZLqZ9W6U3XTQ
-pourcWbcMYYw9uaB7lFRptCbsc9Zj0xGlxzfC9cn1kvVuw8C+cQWywnKkM2NFIul
-LnZg1jElRCHACD0AmPOYnz1j32dTTSysJNt72nTrqQ0vW4MrWXwf2j17B/WNrybb
-kkTKcWhNe8BcGJlMy5x34Hl9ZSH8v4K5sRvfltgkYlQQgQgp1eedNcJ7xdOeT9LG
-pPBuLCOOd8PCrCaIWQriq3eH9YwStXE2qf/qnMj5+a7OgVID7qOozciuEd0aVAAU
-VCMKtPpD4MEmhCek7d7heMgGvlRGoOLE52vWjz0IV1VabH6fajtVaLY+lGB4YDba
-WiFaguoDPPv1cF9cExoyBZjL3BhsTbKfDmBnFxOqJEWv2dPBTmJuQWkmTF26h+N7
-9wwjnYN3
-=+MHc
+iQGzBAEBCgAdFiEETpSpBQ2/XuQH+zWrbJROr5zt4qAFAmBnIFgACgkQbJROr5zt
+4qALXwv/Tao77DwILrk4Z0MCg6DjyVNjzuwHzTlowapOIWXrDyM9jqhhtjNKbSrw
+9UXIAF2e1MV3mgQJ+KCpYzCdV2BGYEOMVrWTi4IXneUt91uB2ziVJVSZ3YnYJNmo
+wuetxHeLB3GN2bnko4RmQFq2ZJdhYugP7y4IBcD4i48h3uGKFVizzBr40F6vd3lv
+jqQfNDUZ8GUXsnxp4A1emnmPdbaVIUXrvfvXaD9MTweJPc0TRN9I5zV2GMG07R/i
+1xRjt70Qn7tPU1aP3Nk884QIv5NZHt9qIqBmDHye6/He8gI0bEgptC34O9ntWteq
+gIhQLaVdVuXLefsaX4jh8sNe4dkPsWBOnKKYzTjc0c01XPPFDFnl5k3BhcxSv8fE
+tc3oSM6uQtdOFRsvOWGoz8k4WAmDcKX75i/qwPE9SMLZKmajk0bCMxCSAJ2yXmcE
+/CS6SS981kH4EzGyc63xUpq0G8aC/H8zxq6vezh3qOU82r3FHqx7hPBmtT84pSkJ
+dQafhH4v
+=vOGl
 -----END PGP SIGNATURE-----
