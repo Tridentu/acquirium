@@ -50,6 +50,19 @@ SHA1: 5da52d30044b16cf7e2695d6462690f1961ef92a
 MD5sum: 7c3b0f04204f8cf7ae7b0979ecd4aded
 Description: This is pkg-config, but built for Tridentu Linux.
 
+Package: tmux-tridentu
+Version: 3.1.0
+Architecture: amd64
+Maintainer: Tridentu Group tridentugroup@protonmail.com
+Priority: important
+Section: utils
+Filename: pool/main/t/tmux-tridentu/tmux-tridentu_3.1.0_amd64.deb
+Size: 312716
+SHA256: ce93dfa35ad6cc508c34e6fa21767a8f1d6a28bbc10fa4c17dcf61db225397e5
+SHA1: 16255281a40c4e6eca2b12d5c01db923bcfadfda
+MD5sum: 256e0d4e8cdeeec8f65f9acb97b9eabe
+Description: tmux 3.1 built for Tridentu Linux.
+
 Package: zsh-tridentu
 Version: 5.8.0
 Architecture: amd64
