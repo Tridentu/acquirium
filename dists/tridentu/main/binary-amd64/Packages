@@ -50,3 +50,16 @@ SHA1: 5da52d30044b16cf7e2695d6462690f1961ef92a
 MD5sum: 7c3b0f04204f8cf7ae7b0979ecd4aded
 Description: This is pkg-config, but built for Tridentu Linux.
 
+Package: zsh-tridentu
+Version: 5.8.0
+Architecture: amd64
+Maintainer: Tridentu Group tridentugroup@protonomail.com
+Priority: important
+Section: shells
+Filename: pool/main/z/zsh-tridentu/zsh-tridentu_5.8.0_amd64.deb
+Size: 1696704
+SHA256: 1ce0c33e215afc89c6a653563374b5858257425164f4dd526ab8fc8ee093ff49
+SHA1: 770565e7219efa40490df6ff4d258472190d7400
+MD5sum: 2dd2a28e91a954bdfa242544980c924f
+Description: Zsh-5.8.0.2 (patched version) built for Tridentu Linux.
+
