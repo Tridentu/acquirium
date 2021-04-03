@@ -76,6 +76,19 @@ SHA1: 16255281a40c4e6eca2b12d5c01db923bcfadfda
 MD5sum: 256e0d4e8cdeeec8f65f9acb97b9eabe
 Description: tmux 3.1 built for Tridentu Linux.
 
+Package: yajl-tridentu
+Version: 2.1.0
+Architecture: amd64
+Maintainer: Tridentu Group tridentugroup@protonmail.com
+Priority: important
+Section: libs
+Filename: pool/main/y/yajl-tridentu/yajl-tridentu_2.1.0_amd64.deb
+Size: 48684
+SHA256: 58105d6827fe581ca3edc86ee59c02d7b5dd1211df4e3a9032ff426cfdc190e6
+SHA1: 027157eb5087e8f603d3bf766380af5ba9fcd041
+MD5sum: 813ab9bff62fc2de95e3dc5b71ce5cfc
+Description: YAJL built for Tridentu Linux.
+
 Package: zsh-tridentu
 Version: 5.8.0
 Architecture: amd64
