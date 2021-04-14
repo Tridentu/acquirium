@@ -11,6 +11,19 @@ SHA1: b421b354bd408980cd88aa4a480738a72c3275dd
 MD5sum: c8bd0a1922db28ddaa47c2ab45065e2e
 Description: This package is Emacs, but built and packaged for use with Tridentu Linux. This package is only for the Terminal version of Tridentu, so there are no X-related user interfaces available.
 
+Package: freetype-tridentu
+Version: 2.10.4
+Architecture: amd64
+Maintainer: Tridentu Group tridentugroup@protonmail.com
+Priority: important
+Section: libs
+Filename: pool/main/f/freetype-tridentu/freetype-tridentu_2.10.4_amd64.deb
+Size: 1436628
+SHA256: 629a08e7f199b2c2c3fa1e506f8d575d4b6d05d538d15af333a08cecfd6de868
+SHA1: 229d6a0572ac0a8af08a46cedf06d2104d3665a2
+MD5sum: d03951b0a24d91c94d659117de5bbf62
+Description: The Tridentu-built version of Freetype-2.10.4.
+
 Package: harfbuzz-tridentu
 Version: 2.8.0
 Architecture: amd64
