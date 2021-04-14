@@ -11,6 +11,19 @@ SHA1: b421b354bd408980cd88aa4a480738a72c3275dd
 MD5sum: c8bd0a1922db28ddaa47c2ab45065e2e
 Description: This package is Emacs, but built and packaged for use with Tridentu Linux. This package is only for the Terminal version of Tridentu, so there are no X-related user interfaces available.
 
+Package: fontconfig-tridentu
+Version: 2.13.1
+Architecture: amd64
+Maintainer: Tridentu Group tridentugroup@protonmail.com
+Priority: important
+Section: utils
+Filename: pool/main/f/fontconfig-tridentu/fontconfig-tridentu_2.13.1_amd64.deb
+Size: 456912
+SHA256: 87eba57b756d184bb0c5f7cd187ebbb92360a2be2332a19e6680e00e8fdf4b35
+SHA1: f5c7e7596eb9b4296e97573f342079d74a0abb1e
+MD5sum: c74b4a8a0511696f5088c9e7f9bd4dd9
+Description: Fontconfig 2.13.1 made for Tridentu Linux.
+
 Package: freetype-tridentu
 Version: 2.10.4
 Architecture: amd64
