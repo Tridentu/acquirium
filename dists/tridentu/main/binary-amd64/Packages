@@ -76,6 +76,19 @@ SHA1: a8fb463dc56dd55ee8a8cf946d141dcf02866cda
 MD5sum: ec080ef13d4d867a8e6f1591c175749d
 Description: Libsigc++ 2.0 built for Tridentu Linux.
 
+Package: mutt-tridentu
+Version: 2.0.6
+Architecture: amd64
+Maintainer: Tridentu Group tridentugroup@protonmail.com
+Priority: optional
+Section: mail
+Filename: pool/main/m/mutt-tridentu/mutt-tridentu_2.0.6_amd64.deb
+Size: 2349228
+SHA256: 8a228d784f4045b3bc568d2f6688c7d2729bec01636a8bfaedd8b1403e9be22a
+SHA1: 9bb88719cf2f7f573a030c728be1904d1221e51a
+MD5sum: 1970e08ffc530271dcc1ce54f37b4db1
+Description: Mutt for Tridentu Linux. Replaced by Neomutt.
+
 Package: pkg-config-tridentu
 Version: 0.29.2
 Architecture: amd64
