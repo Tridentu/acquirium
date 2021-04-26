@@ -76,6 +76,19 @@ SHA1: a8fb463dc56dd55ee8a8cf946d141dcf02866cda
 MD5sum: ec080ef13d4d867a8e6f1591c175749d
 Description: Libsigc++ 2.0 built for Tridentu Linux.
 
+Package: libxcb-tridentu
+Version: 1.14.0
+Architecture: amd64
+Maintainer: Tridentu Group tridentugroup@protonmail.com
+Priority: optional
+Section: libs
+Filename: pool/main/libx/libxcb-tridentu/libxcb-tridentu_1.14.0_amd64.deb
+Size: 895604
+SHA256: 5b71762d5249d1e7846ca079b7cbdb30ed209da1451f9eb036a0c7b45204679f
+SHA1: dd29eb81693ae721ef17138a6e5d61682078a972
+MD5sum: a0370e4fd517e8f4239070dbecbd0224
+Description: libxcb-1.14, built for Tridentu Linux.
+
 Package: mutt-tridentu
 Version: 2.0.6
 Architecture: amd64

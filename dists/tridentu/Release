@@ -1,27 +1,27 @@
 Origin: tridentu.github.io/acquirium
 Label: Tridentu Acquirium
 Codename: tridentu
-Date: Mon, 19 Apr 2021 00:26:39 UTC
+Date: Mon, 26 Apr 2021 16:06:58 UTC
 Architectures: amd64
 Components: main
 Description: The official APT repository for software that runs on Tridentu Linux.
 MD5Sum:
- 26602b1387614769e5df97abce543e44 5141 main/binary-amd64/Packages
- d581c9bcc9ae81cb9b6ad727aafd6b80 1824 main/binary-amd64/Packages.gz
+ e479abc9b892dcc70974b17fd8644daf 5592 main/binary-amd64/Packages
+ 33bb06f863260946ee409163dad67e2b 1950 main/binary-amd64/Packages.gz
  017ce2330206648c8147fe4cce1a3dc9 182 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  4b70c6822c987422981e00b4c7ecc5d6 183 main/source/Release
 SHA1:
- bed325203df10dea13500ac9c43e04c12ad7b20b 5141 main/binary-amd64/Packages
- f035382bd2a1a9287c597573b3c209913ed6fdda 1824 main/binary-amd64/Packages.gz
+ 97db106c084c411d6b0862cad21c39bfea2ffd71 5592 main/binary-amd64/Packages
+ 720afc294aff35f0a94b50fbf8a707b77ecd1fee 1950 main/binary-amd64/Packages.gz
  9ec0583abf4a28ba186ed78f29b70f002a90e10a 182 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  2c5b77de1b3578a20a53b55fabb272473a4656df 183 main/source/Release
 SHA256:
- c8c7af6665e4ac0464a5b25a4fe0bd1e84f2d799b4192ab7e7d7ec2718718e79 5141 main/binary-amd64/Packages
- a9ad55b860494f937bea0bf989f52a6cbc29049858e0b913df612215aafe38ad 1824 main/binary-amd64/Packages.gz
+ 007eb98ef4512bb38d0344a35a73dbc627f7289a198f8af44f025f424724095c 5592 main/binary-amd64/Packages
+ 871d0e6ce0b17e8662e413b15a5a60821ab7182c78d902844c18829851b954bb 1950 main/binary-amd64/Packages.gz
  ee0c0aabe718e61646b7839f21ac2bb20038d3cfb81d096ec81c3c87cb66c5b2 182 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
